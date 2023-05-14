@@ -23,6 +23,7 @@ namespace GAD_project
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
